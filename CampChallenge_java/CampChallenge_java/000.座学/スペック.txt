@@ -1,0 +1,7 @@
+製品名:GALLERIA QF860HG
+OS:Windows 10 home 64bit
+メモリ:8.00GB
+CPU:Intel Core i7-4710MQ 2.50GHz
+ディスプレイ:Intel HD Graphics 4600
+ビデオカード:NVIDIA GeForce GTX 860M
+HDD:500GB,5400rpm,2.5inch

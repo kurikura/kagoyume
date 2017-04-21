@@ -19,9 +19,3 @@ public class sample {
         System.out.println(b);
     }    
 }
-
- class sample1{
-  public static void main(String[] args){
-
-}
-}

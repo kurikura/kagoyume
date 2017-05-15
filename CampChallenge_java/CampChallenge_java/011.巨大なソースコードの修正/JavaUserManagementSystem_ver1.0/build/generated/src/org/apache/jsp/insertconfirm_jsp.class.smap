@@ -1,0 +1,20 @@
+SMAP
+insertconfirm_jsp.java
+JSP
+*S JSP
+*F
++ 0 insertconfirm.jsp
+insertconfirm.jsp
+*L
+1:45
+3,2:47
+4,10:49
+13,11:59
+23,2:70
+25,5:72,3
+30,3:87
+33:90,3
+34,2:93
+36:95,3
+37,6:98
+*E
